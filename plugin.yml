@@ -1,0 +1,16 @@
+name: XenonCraft-Skyblocksystem
+version: 0.0.3
+author: BumseBine
+main: de.xenoncraft.bumsebine.main.Main
+
+commands:
+   skyblock: 
+      description: Bitte benutze skyblock help!
+   spawn:
+      description: Damit kommst du zum Spawn!
+   lobby:
+      description: Damit kommst du zur Lobby!
+   hub:
+      description: Damit kommst du zum Hub!
+   trash:
+      description: Damit oeffnest du einen Muelleimer!
